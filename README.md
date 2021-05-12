@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Wellington Dantas, 26 years-old.
+- 👋 Hi, I'm Wellington Dantas, 26 years old.
 - 👀 I'm interested in Machine Learning, Data Science and Development. 
 - 🌱 I'm PhD student.
 - 📫 I’m currently Data Scientist
