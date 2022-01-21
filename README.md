@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Wellington Dantas, 26 years old.
 - 👀 I'm interested in Machine Learning, Data Science, Data Engineer and Development. 
-- 🌱 I'm PhD student in Artificial Intelligence.
+- 🌱 I'm pursuing a doctorate in Artificial Intelligence at Federal University of Ceará (UFC).
 - 📫 I’m currently Data Scientist.
 
 <!---
