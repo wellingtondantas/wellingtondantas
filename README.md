@@ -1,9 +1,21 @@
-- 👋 Hi, I'm Wellington Dantas, 28 years old.
-- 👀 I'm interested in Machine Learning, Data Science, Data Engineer and Development. 
-- 🌱 I'm pursuing a doctorate in Artificial Intelligence at Federal University of Ceará (UFC).
-- 📫 I’m currently Data Scientist.
+# 👋 Hi, I'm Wellington Almeida!  
 
-<!---
-wellingtondantas/wellingtondantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me  
+I'm a 28-year-old enthusiast of technology and innovation, deeply passionate about:  
+- **Machine Learning**  
+- **Data Science**  
+- **Data Engineering**  
+- **Software Development**  
+
+## 🎓 Academic Background  
+I’m currently pursuing a doctorate in **Artificial Intelligence** at the **Federal University of Ceará (UFC)**, focusing on cutting-edge AI advancements.  
+
+## 💼 Professional Role  
+I'm working as a **Data Scientist**, applying advanced analytics and machine learning techniques to solve complex real-world problems.  
+
+## 🌱 Lifelong Learner  
+Constantly exploring new tools, frameworks, and ideas to push the boundaries of what AI can achieve.  
+
+## 📫 How to Reach Me  
+Feel free to connect with me for collaborations, discussions, or just to share ideas!
+
